@@ -1,2 +1,2 @@
 # davaleba_2
-![Screenshot](capture.png)
+![Screenshot](capture.PNG)
